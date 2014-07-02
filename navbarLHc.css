@@ -1,0 +1,34 @@
+
+/* ****** LibreHealthcare ******
+Auteur(s) : Nicolas Floquet.
+Licence : GNU-GPL.
+*/
+
+/* Début de la mise en forme de la barre de navigation des sites LibreHealthcare */
+#navbarLHc {
+    box-sizing: content-box;
+    float: left;
+    clear: both;
+    width: 100%;
+    height: 40px;
+    overflow: visible;
+    margin: 40px 0 10px 0;
+    padding: 5px 0 0 0;
+    background: #CCC;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 2);
+    font-family: "DejaVu Sans",Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+#navbarLHc ul li {
+    display: inline;
+    list-style: none;
+}
+#navbarLHc ul li a {
+    color: #805295;
+}
+
+/* Fin de la mise en forme de la barre de navigation des sites LibreHealthcare */
+
+/* ****** LibreHealthcare ****** */
+
